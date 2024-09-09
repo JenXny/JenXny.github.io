@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>cat people welcomed</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1>CUTE CATS</h1>
+    <hr>
+    <h1>Hello
+    <head>
+    <body style="background-color: #f7f5ff;">
+    
+    </h1>
+    <p>My first cat website. Hope you like it!</p>
+    
+    <a href="https://www.youtube.com/watch?v=CJkrxF6DiJs" target=_self title="This takes you to youtube">
+      cute cats
+    </a>
+  <a href="https://www.youtube.com/watch?v=IzluNxh-8_o">
+    <img id="cats" src="https://www.rd.com/wp-content/uploads/2023/11/Cats-Have-276-Facial-Expressions_FT.jpg" height="50" width="50"
+    alt="photo of Cats-Have-276-Facial-Expressions" title="cats are funny"> 
+  </a>
+      <!--I referenced youtube videos to help create my website. I am not sure if I did this assignment correctly but I tried.-–>
+
+</body>
+</html>
