@@ -1,0 +1,35 @@
+body {
+    background-color: lavenderblush;
+}
+h1 {
+    color:brown;
+    text-align: center;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+a:hover{
+    color: black;
+}
+.center{
+    margin: auto;
+    width:50%;
+    border:3px solid green;
+    padding:10px;
+}
+p {
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:160%;
+}
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+div{
+    background-color:palevioletred;
+    opacity:0.1;
+}
